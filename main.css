@@ -65,8 +65,9 @@ header {
 	border-bottom: 5px solid #CC0060;
 }
 
-.main-btn:focus {
+.main-btn:focus, .main-btn:hover {
 	background-color: #CC0060;
+	border-bottom: 5px solid #CC0060;
 }
 
 
