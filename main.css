@@ -1,0 +1,113 @@
+body, html {
+	padding: 0;
+	margin: 0;
+}
+
+ul  {
+	list-style-type: none;
+	display: inline-block;
+}
+
+a {
+	text-decoration: none;
+}
+
+.list-group-item {
+	background: none;
+	border: none;
+}
+
+.section-header {
+	margin: 0 auto;
+	background: #000;
+	color: #fff;
+	border: 2px solid 	#FF1493;
+	width: 300px;
+}
+
+.far, .fas {
+	color: 	#FF1493!important;
+}
+
+section {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+/** HEADER **/
+
+header {
+	margin-top: 10px;
+	margin-bottom: 100px;
+}
+
+.headline-wrapper {
+	background-color: #191919;
+	border: solid 2px 	#FF1493;
+	padding-top:  10px;
+	color: #fff;
+	margin: 15px 0;
+}
+
+.video-placeholder {
+	margin: 0 auto;
+	background-image: url('video.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.main-btn {
+	padding: 25px 70px;
+	background-color: #FF1493;
+	z-index: 2;
+	margin: 0 auto;
+	border-bottom: 5px solid #CC0060;
+}
+
+
+
+
+/** MAIN **/
+
+
+.bg-dark {
+	border: 5px solid #FF1493;
+	width: 95%;
+	margin: 10px auto;
+	z-index: 2;
+	background: #000;
+}
+
+#layer1 {
+	position: relative;
+	margin-top: -50px;
+}
+
+.main-info {
+	width: 100%;
+	background: #000;
+	padding: 10px;
+	z-index: 0;
+}
+
+/** Section **/
+
+
+
+/** ACCESS AREA **/
+
+.access-area {
+	background: #000;
+	width: 100%;
+	margin-top: 100px;
+	color: #FFF;
+	font-size: 1.5em;
+	padding-bottom: 50px;
+}
+
+.access-area .container .list-group {
+	margin-top: 50px;
+	display: inline-block;
+}
+
